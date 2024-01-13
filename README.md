@@ -1,18 +1,16 @@
 # Online Free Case Converter Tool
 
-Change your text to UPPERCASE, lowercase, Capitalize Case, Title Case.
+A simple free online tool for converting case of your text.
+UPPERCASE, lowercase, Capitalize Case, Title Case.
 [https://caseconverter.chocolat5.com/](https://caseconverter.chocolat5.com/)
 
 ## Tech Stack
 
-- [Astro](https://astro.build/)
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [Figma](https://www.figma.com/)
-- [iconic](https://iconic.app/)
 
 ## Running Locally
 
@@ -39,10 +37,6 @@ npm install
 ```shell
 npm run dev
 ```
-
-## Feedback & Suggestions
-
-If you have any suggestions or feedback, you can contact me via my twitter. Alternatively, feel free to open an issue if you find bugs or want to request new features.
 
 ## License
 
