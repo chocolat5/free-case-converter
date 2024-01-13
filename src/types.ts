@@ -1,7 +1,2 @@
-export interface PostItem {
-  id: string;
-  authorName: string;
-  link: string;
-  title: string;
-  date: Date;
-}
+export type ChangeEvent = React.ChangeEvent<HTMLTextAreaElement>;
+export type ClickEvent = React.MouseEvent<HTMLButtonElement>;
