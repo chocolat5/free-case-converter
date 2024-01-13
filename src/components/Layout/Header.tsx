@@ -109,10 +109,6 @@ export default function Header(): ReactElement {
               <dt>Capitalize:</dt>
               <dd>This Is An Example</dd>
             </dl>
-            <dl css={styles.tooltipTextList}>
-              <dt>Title:</dt>
-              <dd>This is an Example</dd>
-            </dl>
           </span>
         </div>
       </h1>
