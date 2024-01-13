@@ -1,10 +1,14 @@
-# Online Free Case Converter Tool
+# Online Free Case Converter Tool 
 
-A simple free online tool for converting case of your text.
-UPPERCASE, lowercase, Capitalize Case, Title Case.
-[https://caseconverter.chocolat5.com/](https://caseconverter.chocolat5.com/)
+A simple free online tool for converting case of your text.  
+UPPERCASE, lowercase, Capitalize Case, Title Case.  
+👉 [https://caseconverter.chocolat5.com/](https://caseconverter.chocolat5.com/)
 
-## Tech Stack
+<img src="https://github.com/chocolat5/free-case-converter/assets/50815029/3eb2703c-5fc7-4313-9ec4-e34393e16f02" width="560" alt="">
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/myConsciousness)
+
+## ✨ Features
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -12,7 +16,7 @@ UPPERCASE, lowercase, Capitalize Case, Title Case.
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
-## Running Locally
+## 🚀 Running Locally
 
 1. Clone this repo
 
@@ -38,7 +42,7 @@ npm install
 npm run dev
 ```
 
-## License
+## 📜 License
 
 Licensed under the GPL-3.0
 
