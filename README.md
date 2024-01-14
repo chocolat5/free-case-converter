@@ -8,13 +8,18 @@ UPPERCASE, lowercase, Capitalize Case, Title Case.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/myConsciousness)
 
-## ✨ Features
+## 💻 Tech Stack
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+
+## ✨ Features
+
+- [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard)
+- [normalize.css](https://github.com/necolas/normalize.css)
 
 ## 🚀 Running Locally
 
