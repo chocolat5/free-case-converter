@@ -6,7 +6,7 @@ UPPERCASE, lowercase, Capitalize Case, Title Case.
 
 <img src="https://github.com/chocolat5/free-case-converter/assets/50815029/3eb2703c-5fc7-4313-9ec4-e34393e16f02" width="560" alt="">
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/myConsciousness) <img src="https://img.shields.io/badge/Deployed%20on-Cloudflare%20Pages-orange.svg?style=flat" alt="Deployed on Cloudflare Pages">
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/chocolat5) <img src="https://img.shields.io/badge/Deployed%20on-Cloudflare%20Pages-orange.svg?style=flat" alt="Deployed on Cloudflare Pages">
 
 ## 💻 Tech Stack
 
