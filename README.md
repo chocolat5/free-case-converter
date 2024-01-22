@@ -20,6 +20,7 @@ UPPERCASE, lowercase, Capitalize Case, Title Case.
 
 - [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard)
 - [normalize.css](https://github.com/necolas/normalize.css)
+- [iconic](https://iconic.app/)
 
 ## 🚀 Running Locally
 
